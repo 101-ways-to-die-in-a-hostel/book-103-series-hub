@@ -1,0 +1,1447 @@
+{
+  "generated": "2026-01-06T21:32:35-05:00",
+  "totalBooks": 102,
+  "books": [
+    {
+      "id": "book-001-faulty-electrical",
+      "number": 001,
+      "title": "Faulty Electrical",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-002-gas-leak-explosion",
+      "number": 002,
+      "title": "Gas Leak Explosion",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-003-structural-collapse",
+      "number": 003,
+      "title": "Structural Collapse",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-004-shower-slip",
+      "number": 004,
+      "title": "Shower Slip",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-005-carbon-monoxide",
+      "number": 005,
+      "title": "Carbon Monoxide",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-006-kitchen-fire",
+      "number": 006,
+      "title": "Kitchen Fire",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-007-rooftop-fall",
+      "number": 007,
+      "title": "Rooftop Fall",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-008-elevator-trap",
+      "number": 008,
+      "title": "Elevator Trap",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-009-bunk-bed-crush",
+      "number": 009,
+      "title": "Bunk Bed Crush",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-010-pool-drowning",
+      "number": 010,
+      "title": "Pool Drowning",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-011-renovation-debris",
+      "number": 011,
+      "title": "Renovation Debris",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-012-chemical-reaction",
+      "number": 012,
+      "title": "Chemical Reaction",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-013-toxic-mold",
+      "number": 013,
+      "title": "Toxic Mold",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-014-heatstroke",
+      "number": 014,
+      "title": "Heatstroke",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-015-hypothermia",
+      "number": 015,
+      "title": "Hypothermia",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-016-venomous-bite",
+      "number": 016,
+      "title": "Venomous Bite",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-017-window-fall",
+      "number": 017,
+      "title": "Window Fall",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-018-dumbwaiter",
+      "number": 018,
+      "title": "Dumbwaiter",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-019-ceiling-fan",
+      "number": 019,
+      "title": "Ceiling Fan",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-020-lightning-strike",
+      "number": 020,
+      "title": "Lightning Strike",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-021-serial-killer",
+      "number": 021,
+      "title": "Serial Killer",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-022-balcony-push",
+      "number": 022,
+      "title": "Balcony Push",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-023-roommate-poison",
+      "number": 023,
+      "title": "Roommate Poison",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-024-wristband-strangle",
+      "number": 024,
+      "title": "Wristband Strangle",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-025-pillow-suffocation",
+      "number": 025,
+      "title": "Pillow Suffocation",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-026-cult-sacrifice",
+      "number": 026,
+      "title": "Cult Sacrifice",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-027-cannibalism",
+      "number": 027,
+      "title": "Cannibalism",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-028-theft-fight",
+      "number": 028,
+      "title": "Theft Fight",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-029-poker-murder",
+      "number": 029,
+      "title": "Poker Murder",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-030-mistaken-identity",
+      "number": 030,
+      "title": "Mistaken Identity",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-031-drugged-drink",
+      "number": 031,
+      "title": "Drugged Drink",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-032-stampede",
+      "number": 032,
+      "title": "Stampede",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-033-companion-betrayal",
+      "number": 033,
+      "title": "Companion Betrayal",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-034-snoring-murder",
+      "number": 034,
+      "title": "Snoring Murder",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-035-manager-psycho",
+      "number": 035,
+      "title": "Manager Psycho",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-036-hunting-game",
+      "number": 036,
+      "title": "Hunting Game",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-037-witness-killing",
+      "number": 037,
+      "title": "Witness Killing",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-038-noise-revenge",
+      "number": 038,
+      "title": "Noise Revenge",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-039-hazing-death",
+      "number": 039,
+      "title": "Hazing Death",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-040-shower-assault",
+      "number": 040,
+      "title": "Shower Assault",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-041-alcohol-poisoning",
+      "number": 041,
+      "title": "Alcohol Poisoning",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-042-overdose",
+      "number": 042,
+      "title": "Overdose",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-043-choking-noodles",
+      "number": 043,
+      "title": "Choking Noodles",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-044-sleepwalking",
+      "number": 044,
+      "title": "Sleepwalking",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-045-food-allergy",
+      "number": 045,
+      "title": "Food Allergy",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-046-medication-error",
+      "number": 046,
+      "title": "Medication Error",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-047-dehydration",
+      "number": 047,
+      "title": "Dehydration",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-048-diy-electrical",
+      "number": 048,
+      "title": "Diy Electrical",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-049-autoerotic",
+      "number": 049,
+      "title": "Autoerotic",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-050-horror-marathon",
+      "number": 050,
+      "title": "Horror Marathon",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-051-parkour",
+      "number": 051,
+      "title": "Parkour",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-052-viral-challenge",
+      "number": 052,
+      "title": "Viral Challenge",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-053-selfie-ledge",
+      "number": 053,
+      "title": "Selfie Ledge",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-054-planning-stress",
+      "number": 054,
+      "title": "Planning Stress",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-055-headphone-strangle",
+      "number": 055,
+      "title": "Headphone Strangle",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-056-local-substances",
+      "number": 056,
+      "title": "Local Substances",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-057-shallow-dive",
+      "number": 057,
+      "title": "Shallow Dive",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-058-diy-tattoo",
+      "number": 058,
+      "title": "Diy Tattoo",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-059-swallowed-key",
+      "number": 059,
+      "title": "Swallowed Key",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-060-poison-cooking",
+      "number": 060,
+      "title": "Poison Cooking",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-061-ghost-possession",
+      "number": 061,
+      "title": "Ghost Possession",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-062-cursed-artifact",
+      "number": 062,
+      "title": "Cursed Artifact",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-063-soul-extraction",
+      "number": 063,
+      "title": "Soul Extraction",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-064-dimension-portal",
+      "number": 064,
+      "title": "Dimension Portal",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-065-time-loop",
+      "number": 065,
+      "title": "Time Loop",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-066-sentient-mold",
+      "number": 066,
+      "title": "Sentient Mold",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-067-burial-ground",
+      "number": 067,
+      "title": "Burial Ground",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-068-furniture-transform",
+      "number": 068,
+      "title": "Furniture Transform",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-069-nightmare-realm",
+      "number": 069,
+      "title": "Nightmare Realm",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-070-local-taboo",
+      "number": 070,
+      "title": "Local Taboo",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-071-body-swap",
+      "number": 071,
+      "title": "Body Swap",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-072-quantum-disaster",
+      "number": 072,
+      "title": "Quantum Disaster",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-073-haunted-mirror",
+      "number": 073,
+      "title": "Haunted Mirror",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-074-siren-plumbing",
+      "number": 074,
+      "title": "Siren Plumbing",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-075-psychic-vampire",
+      "number": 075,
+      "title": "Psychic Vampire",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-076-forbidden-book",
+      "number": 076,
+      "title": "Forbidden Book",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-077-wifi-consciousness",
+      "number": 077,
+      "title": "Wifi Consciousness",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-078-time-dilation",
+      "number": 078,
+      "title": "Time Dilation",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-079-astral-projection",
+      "number": 079,
+      "title": "Astral Projection",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-080-ouija-possession",
+      "number": 080,
+      "title": "Ouija Possession",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-081-luggage-room",
+      "number": 081,
+      "title": "Luggage Room",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-082-wall-decoration",
+      "number": 082,
+      "title": "Wall Decoration",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-083-disease-outbreak",
+      "number": 083,
+      "title": "Disease Outbreak",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-084-gang-violence",
+      "number": 084,
+      "title": "Gang Violence",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-085-terrorist-attack",
+      "number": 085,
+      "title": "Terrorist Attack",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-086-drug-mule",
+      "number": 086,
+      "title": "Drug Mule",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-087-natural-disaster",
+      "number": 087,
+      "title": "Natural Disaster",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-088-laundry-machine",
+      "number": 088,
+      "title": "Laundry Machine",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-089-vehicle-strike",
+      "number": 089,
+      "title": "Vehicle Strike",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-090-wildlife-invasion",
+      "number": 090,
+      "title": "Wildlife Invasion",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-091-intelligence-witness",
+      "number": 091,
+      "title": "Intelligence Witness",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-092-food-poisoning",
+      "number": 092,
+      "title": "Food Poisoning",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-093-detergent-allergy",
+      "number": 093,
+      "title": "Detergent Allergy",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-094-maze-lost",
+      "number": 094,
+      "title": "Maze Lost",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-095-mistranslation",
+      "number": 095,
+      "title": "Mistranslation",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-096-protest-crossfire",
+      "number": 096,
+      "title": "Protest Crossfire",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-097-criminal-witness",
+      "number": 097,
+      "title": "Criminal Witness",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-098-identity-theft",
+      "number": 098,
+      "title": "Identity Theft",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-099-tap-water",
+      "number": 099,
+      "title": "Tap Water",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-100-doppelganger",
+      "number": 100,
+      "title": "Doppelganger",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-101-local-law",
+      "number": 101,
+      "title": "Local Law",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+,
+    {
+      "id": "book-102-200-dollars",
+      "number": 102,
+      "title": "200 Dollars",
+      "status": "in-progress",
+      "overall": 55,
+      "canon": {"score": 4, "total": 5, "pct": 80},
+      "production": {"score": 0, "total": 6, "pct": 0},
+      "marketing": {"score": 2, "total": 2, "pct": 100},
+      "distribution": {"score": 4, "total": 4, "pct": 100},
+      "press": {"score": 0, "total": 2, "pct": 0},
+      "website": {"score": 1, "total": 2, "pct": 50}
+    }
+
+  ],
+  "kpis": {
+    "totalBooks": 102,
+    "openIssues": 2,
+    "closedIssues": 0,
+    "categories": {
+      "canon": {"name": "Story Canon", "filesPerBook": 5},
+      "production": {"name": "Production Assets", "filesPerBook": 6},
+      "marketing": {"name": "Marketing Kit", "filesPerBook": 2},
+      "distribution": {"name": "Distribution", "filesPerBook": 4},
+      "press": {"name": "Press & Publication", "filesPerBook": 2},
+      "website": {"name": "Landing Page", "filesPerBook": 2}
+    }
+  }
+}
