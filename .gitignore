@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Compiled output (regenerated)
+output/*.pdf
+output/*.epub
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local settings
+.env
+.env.local
